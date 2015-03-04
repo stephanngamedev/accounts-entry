@@ -1,9 +1,9 @@
 <template name='entrySocial'>
-  <button class="btn" id="entry-{{this}}" name="{{this}}">
+  <button class="btn ui {{icon}} fluid button" id="entry-{{this}}" name="{{this}}">
     {{#if unconfigured}}
-      <i class="fa fa-{{icon}}"></i> {{t9n "configure"}} {{capitalize this}}
+      <i class="{{icon}} icon"></i> {{t9n "configure"}} {{capitalize this}}
     {{else}}
-      <i class="fa fa-{{icon}}"></i> {{buttonText}} {{t9n "with"}} {{capitalize this}}
+      <i class="{{icon}} icon"></i> {{buttonText}} {{t9n "with"}} {{capitalize this}}
     {{/if}}
   </button>
 </template>
