@@ -31,7 +31,7 @@ joshowens:simple-form@0.2.2
 jquery@1.11.3
 json@1.0.2
 less@1.0.12
-local-test:stephannvasconcelos:accounts-entry@1.0.7
+local-test:stephannvasconcelos:accounts-entry@1.0.8
 localstorage@1.0.2
 logging@1.0.6
 meteor@1.1.4
@@ -56,7 +56,7 @@ softwarerero:accounts-t9n@1.0.3
 spacebars@1.0.5
 spacebars-compiler@1.0.4
 srp@1.0.2
-stephannvasconcelos:accounts-entry@1.0.7
+stephannvasconcelos:accounts-entry@1.0.8
 templating@1.0.11
 test-helpers@1.0.3
 tinytest@1.0.4
