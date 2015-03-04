@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Make signin and signout their own pages with routes.",
-    version: '1.0.6',
+    version: '1.0.7',
     name: "stephannvasconcelos:accounts-entry",
     githubUrl: 'https://github.com/stephanngamedev/accounts-entry',
 });
